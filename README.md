@@ -1,6 +1,8 @@
 # SilentScan
 
-![alt text](https://ibb.co/w0255Kk)
+![alt text][logo]
+
+[logo]:https://ibb.co/w0255Kk
 
 Guys it's me again ...
 I am currently working on an huge port scanning project.
